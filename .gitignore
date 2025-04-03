@@ -160,3 +160,5 @@ ckpts/hunyuan-video-t2v-720p
 ckpts/hunyuan-video-t2v-720p/vae
 ckpts/hunyuan-video-t2v-720p/transformers
 models/*
+
+bjob_logs

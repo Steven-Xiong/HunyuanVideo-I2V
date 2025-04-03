@@ -1,6 +1,6 @@
 vae_path: "./ckpts/hunyuan-video-i2v-720p/vae"
-video_url_files: "/path/to/meta_file.list"
-output_base_dir: "/path/to/output/directory"
+video_url_files: "data/physion/hunyuan/meta_file.list"
+output_base_dir: "data/physion/hunyuan/train"
 sample_n_frames: 129
 target_size: 
   - 480
